@@ -1,0 +1,134 @@
+{
+  "links": [
+    {
+      "name": "Google",
+      "href": "https://www.google.com",
+      "subLinks": [
+        {
+          "name": "Google Maps",
+          "href": "https://maps.google.com",
+          "subLinks": [
+            {
+              "name": "Google Maps Directions",
+              "href": "https://maps.google.com/directions"
+            },
+            {
+              "name": "Google Maps Traffic",
+              "href": "https://maps.google.com/traffic"
+            }
+          ]
+        },
+        {
+          "name": "Google Drive",
+          "href": "https://drive.google.com",
+          "subLinks": [
+            {
+              "name": "Google Docs",
+              "href": "https://docs.google.com"
+            },
+            {
+              "name": "Google Sheets",
+              "href": "https://sheets.google.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "href": "https://www.facebook.com",
+      "subLinks": [
+        {
+          "name": "Facebook Messenger",
+          "href": "https://www.messenger.com",
+          "subLinks": [
+            {
+              "name": "Messenger for Android",
+              "href": "https://play.google.com/store/apps/details?id=com.facebook.orca"
+            },
+            {
+              "name": "Messenger for iOS",
+              "href": "https://apps.apple.com/app/id454638411"
+            }
+          ]
+        },
+        {
+          "name": "Facebook Marketplace",
+          "href": "https://www.facebook.com/marketplace",
+          "subLinks": [
+            {
+              "name": "Marketplace Electronics",
+              "href": "https://www.facebook.com/marketplace/category/electronics"
+            },
+            {
+              "name": "Marketplace Home Goods",
+              "href": "https://www.facebook.com/marketplace/category/home_goods"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "href": "https://www.twitter.com"
+    },
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://www.github.com",
+      "subLinks": [
+        {
+          "name": "GitHub Gist",
+          "href": "https://gist.github.com"
+        },
+        {
+          "name": "GitHub Pages",
+          "href": "https://pages.github.com"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "href": "https://www.youtube.com",
+      "subLinks": [
+        {
+          "name": "YouTube Music",
+          "href": "https://music.youtube.com"
+        },
+        {
+          "name": "YouTube Kids",
+          "href": "https://www.youtubekids.com"
+        }
+      ]
+    },
+    {
+      "name": "Reddit",
+      "href": "https://www.reddit.com"
+    },
+    {
+      "name": "Instagram",
+      "href": "https://www.instagram.com"
+    },
+    {
+      "name": "Wikipedia",
+      "href": "https://www.wikipedia.org"
+    },
+    {
+      "name": "Amazon",
+      "href": "https://www.amazon.com",
+      "subLinks": [
+        {
+          "name": "Amazon Prime Video",
+          "href": "https://www.primevideo.com"
+        },
+        {
+          "name": "Amazon Music",
+          "href": "https://music.amazon.com"
+        }
+      ]
+    }
+  ]
+}
